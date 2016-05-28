@@ -1,13 +1,13 @@
 auto: true
 
-markdown: kramdown
+markdown: redcarpet
 
 highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: “Mukosame's Blog”
-title: Mukosame's blog
+name: “Dong's Blog”
+title: Dong's blog
 description: Everything about Mukosame.
 url: http://mukosame.github.io
 feed: /atom.xml
