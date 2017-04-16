@@ -6,7 +6,6 @@ category: shenghuo
 ---
 
 
-![](http://oohtwkfct.bkt.clouddn.com/6632181570980768298.jpg)
 ![](http://oohtwkfct.bkt.clouddn.com/6631917688190107799.jpg)
 ![](http://oohtwkfct.bkt.clouddn.com/6632119998329609408.jpg)
 ![](http://oohtwkfct.bkt.clouddn.com/6631839622864530511.jpg)
