@@ -5,8 +5,8 @@ highlighter: 'pygments'
 #paginate: 8
 permalink: /:title
 
-name: "爱王栋"
-title: 爱王栋
-url: http://lovedong.wang
+name: "爱飘艳"
+title: 爱飘艳
+url: http://piaoyan.wang
 feed: /atom.xml
-author_info: <a href="http://lovedong.wang/">王栋</a>
+author_info: <a href="http://piaoyan.wang/">飘艳</a>
