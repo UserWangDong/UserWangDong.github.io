@@ -83,13 +83,13 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-size:cover;
     background-position:50% 50%;
 }
-.blog .aside{
+.shenghuo .aside{
     background-image:url('http://imglf0.nosdn.127.net/img/TVV4L2F5VDNyNENPa2JKQmFLZ0lldTNhcE1RNDZYZ0dua1EycTZtSm5sbnlRR0crdUx6c0ZBPT0.jpeg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg');
 }
-.dump .aside{
+.suibi .aside{
     background-image:url('http://imglf1.nosdn.127.net/img/TVV4L2F5VDNyNENPa2JKQmFLZ0llajZtZ256ak9kQVhIZE1JM1FLY3YzYWZ0QkxlS3BBV2tBPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg');
 }
-.fuli .aside{
+.guanyuwo .aside{
     background-image:url('http://imglf0.nosdn.127.net/img/TVV4L2F5VDNyNENPa2JKQmFLZ0llcC9jUjNwRUY2djRkK2hBd1gvQkk2YkJGY3FhZXNYaDNRPT0.jpeg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg')
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
