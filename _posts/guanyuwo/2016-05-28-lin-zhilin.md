@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 林志玲
-category: fuli
+category: guanyuwo
 description: 林志玲美图
 
 ---
