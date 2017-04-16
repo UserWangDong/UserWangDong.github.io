@@ -5,8 +5,8 @@ layout: home
 <div class="index-content guanyuwo">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>关于我</span></a></li>
-            <li style="text-align:center"><a href="/guanyuwo"><span>关于我</span></a></li>
+            <li><a href="/"><span>生活</span></a></li>
+            <li style="text-align:center"><a href="/suibi"><span>随笔</span></a></li>
             <li class="on" style="text-align:right"><a href="/guanyuwo"><span>关于我</span></a></li>
         </ul>
 
