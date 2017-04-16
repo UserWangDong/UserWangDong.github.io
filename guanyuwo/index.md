@@ -2,18 +2,18 @@
 layout: home
 ---
 
-<div class="index-content fuli">
+<div class="index-content guanyuwo">
     <div class="section">
         <ul class="artical-cate">
-            <li><a href="/"><span>Blog</span></a></li>
-            <li style="text-align:center"><a href="/dump"><span>Dump</span></a></li>
-            <li class="on" style="text-align:right"><a href="/fuli"><span>福利</span></a></li>
+            <li><a href="/"><span>关于我</span></a></li>
+            <li style="text-align:center"><a href="/guanyuwo"><span>关于我</span></a></li>
+            <li class="on" style="text-align:right"><a href="/guanyuwo"><span>关于我</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
 
         <ul class="artical-list">
-        {% for post in site.categories.fuli %}
+        {% for post in site.categories.guanyuwo %}
             <li>
                 <h2>
                     <a href="{{ post.url }}">{{ post.title }}</a>
